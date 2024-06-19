@@ -1,0 +1,11 @@
+use_cuda: True
+dataset: 'kspon'
+dataset_path: '/content/drive/MyDrive/Korean/KsponSpeech_eval/eval_clean'
+transcripts_path: '/content/drive/MyDrive/kospeech-latest/data/vocab/eval_transcripts.txt'
+model_path: '/content/drive/MyDrive/kospeech-latest/outputs/2024-04-29/22-20-51/model.pt'
+output_unit: 'character'
+batch_size: 32
+num_workers: 4
+print_every: 20
+decode: 'greedy'
+k: 3

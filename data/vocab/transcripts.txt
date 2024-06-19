@@ -1,0 +1,997 @@
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000230.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000205.pcm	▁헤이 ▁우니 ▁불켜줘 .	6 7 41 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000219.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000227.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 . ▁창문 ▁닫아줘 .	6 7 12 25 100 12 26 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000232.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000226.pcm	▁헤이 ▁우니 ▁불켜줘 . ▁불꺼줘 .	6 7 41 100 40 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000208.pcm	▁헤이 ▁우니 ▁불꺼줘 .	6 7 40 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000225.pcm	▁창문 ▁열어 . ▁창문 ▁닫아 .	12 24 100 12 22 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000231.pcm	▁보일러 ▁좀 ▁켜줘 .	15 29 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000218.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000209.pcm	▁헤이 ▁우니 ▁불꺼 .	6 7 39 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000212.pcm	▁헤이 ▁우니 ▁보일러 ▁틀어줘 .	6 7 15 35 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000203.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000222.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000224.pcm	▁창문 ▁열어줘 . ▁에어컨 ▁꺼줘 .	12 25 100 18 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000213.pcm	▁불꺼 .	39 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000228.pcm	▁헤이 ▁우니 ▁보일러 ▁틀어줘 .	6 7 15 35 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000217.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000210.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000211.pcm	▁헤이 ▁우니 ▁불꺼줘 .	6 7 40 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000233.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000201.pcm	▁보일러 ▁틀어줘 .	15 35 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000202.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000220.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000207.pcm	▁헤이 ▁우니 ▁불켜줘 .	6 7 41 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000216.pcm	▁보일러 ▁틀어줘 .	15 35 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000214.pcm	▁불꺼줘 .	40 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000221.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000206.pcm	▁헤이 ▁우니 ▁불켜 .	6 7 38 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000215.pcm	▁불켜줘 .	41 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000223.pcm	▁보일러 ▁틀어줘 .	15 35 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000229.pcm	▁헤이 ▁우니 ▁보일러 ▁틀어줘 .	6 7 15 35 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000204.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000239.pcm	▁삐삐 ▁히터 ▁꺼줘 .	28 34 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000246.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000253.pcm	▁삐삐야 ▁커튼 ▁좀 ▁쳐줘 .	30 37 29 44 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000276.pcm	▁삐삐야 ▁불 ▁꺼줘 .	30 10 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000278.pcm	▁삐삐 ▁불 ▁꺼 .	28 10 9 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000296.pcm	▁삐삐야 ▁창문 ▁열어줘 .	30 12 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000279.pcm	▁삐삐야 ▁불 ▁꺼줘 .	30 10 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000297.pcm	▁삐삐야 ▁창문 ▁열어줘 .	30 12 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000245.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000238.pcm	▁삐삐 ▁히터 ▁켜줘 .	28 34 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000294.pcm	▁에어컨 ▁좀 ▁켜줘 .	18 29 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000236.pcm	▁삐삐 ▁히터 ▁좀 ▁켜줘 .	28 34 29 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000262.pcm	▁커튼 ▁열어줘 .	37 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000288.pcm	▁삐삐야 ▁불 ▁켜줘 .	30 10 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000271.pcm	▁삐삐야 ▁에어컨 ▁좀 ▁꺼	30 18 29 9
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000252.pcm	▁삐삐야 ▁커튼 ▁열어줘 .	30 37 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000241.pcm	▁삐삐야 ▁창문 ▁좀 ▁열어줘 .	30 12 29 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000250.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000248.pcm	▁창문 ▁좀 ▁닫아줘 .	12 29 26 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000273.pcm	▁삐삐야 ▁에어컨 ▁켜줘 .	30 18 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000287.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000255.pcm	▁삐삐야 ▁에어컨 ▁켜 .	30 18 8 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000298.pcm	▁삐삐야 ▁히터 ▁좀 ▁끄자 .	30 34 29 51 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000265.pcm	▁삐삐야 ▁커튼 ▁쳐줘 .	30 37 44 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000234.pcm	▁삐삐야 ▁히터 ▁꺼줘 .	30 34 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000295.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000292.pcm	▁삐삐야 ▁에어컨 ▁좀 ▁꺼줘 .	30 18 29 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000299.pcm	▁히터 ▁꺼 ▁히터 . ▁히터 ▁좀 ▁꺼줘	34 9 34 100 34 29 20
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000277.pcm	▁삐삐 ▁불 ▁꺼줘 .	28 10 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000281.pcm	▁삐삐야 ▁불 ▁좀 ▁꺼줘 .	30 10 29 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000237.pcm	▁삐삐 ▁히터 ▁좀 ▁켜줘 .	28 34 29 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000261.pcm	▁커튼 ▁좀 ▁닫아줘 .	37 29 26 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000256.pcm	▁커튼 ▁닫아줘 .	37 26 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000257.pcm	▁커튼 ▁열어줘 .	37 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000274.pcm	▁삐삐 ▁불 ▁꺼 .	28 10 9 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000267.pcm	▁삐삐야 ▁에어컨 ▁좀 ▁꺼줘 .	30 18 29 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000289.pcm	▁삐삐야 ▁불 ▁좀 ▁켜 .	30 10 29 8 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000272.pcm	▁삐삐야 ▁히터 ▁켜줘 .	30 34 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000263.pcm	▁삐삐야 ▁커튼 ▁열어줘 .	30 37 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000259.pcm	▁커튼 ▁좀 ▁닫아줘 .	37 29 26 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000284.pcm	▁삐삐야 ▁불 ▁꺼줘 .	30 10 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000293.pcm	▁에어컨 ▁좀 ▁켜줘 .	18 29 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000291.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000258.pcm	▁커튼 ▁닫아줘 .	37 26 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000247.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000280.pcm	▁삐삐야 ▁불 ▁꺼줘 .	30 10 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000269.pcm	▁삐삐야 ▁에어컨 ▁꺼줘 .	30 18 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000266.pcm	▁삐삐야 ▁에어컨 ▁꺼줘 .	30 18 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000244.pcm	▁삐삐야 ▁에어컨 ▁켜줘 .	30 18 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000235.pcm	▁삐삐야 ▁히터 ▁켜줘 .	30 34 19 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000251.pcm	▁삐삐야 ▁커튼 ▁좀 ▁쳐줘 .	30 37 29 44 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000242.pcm	▁삐삐 ▁창문 ▁열어줘 .	28 12 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000290.pcm	▁에어컨 ▁좀 ▁꺼줘 .	18 29 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000254.pcm	▁삐삐야 ▁커튼 ▁쳐줘 .	30 37 44 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000275.pcm	▁삐삐야 ▁불 ▁좀 ▁꺼줘 .	30 10 29 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000282.pcm	▁삐삐야 ▁불 ▁꺼줘 .	30 10 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000285.pcm	▁삐삐 ▁불 ▁꺼 .	28 10 9 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000286.pcm	▁삐삐야 ▁불 ▁켜 .	30 10 8 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000249.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000243.pcm	▁창문 ▁좀 ▁열어줘 .	12 29 25 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000264.pcm	▁삐삐야 ▁커튼 ▁쳐줘 .	30 37 44 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000260.pcm	▁커튼 ▁좀 ▁닫자 .	37 29 52 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000240.pcm	▁삐삐 ▁히터 ▁좀 ▁꺼줘 .	28 34 29 20 100
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000300.pcm	▁히터 ▁좀 ▁켜줘	34 29 19
+KsponSpeech_01/KsponSpeech_0002/KsponSpeech_000283.pcm	▁삐삐야 ▁불 ▁꺼 .	30 10 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000010.pcm	▁헤이 ▁우니 ▁불좀 ▁꺼줘 .	6 7 49 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000004.pcm	▁불 ▁좀 ▁켜줘 .	10 29 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000001.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000002.pcm	▁헤이 ▁우니 ▁불 ▁꺼 ▁줘	6 7 10 9 47
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000009.pcm	▁헤이 ▁우니 ▁불좀 ▁켜 .	6 7 49 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000008.pcm	▁헤이 ▁우니 ▁불좀 ▁켜줘 .	6 7 49 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000003.pcm	▁헤이 ▁우니 ▁불켜줘 .	6 7 41 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000005.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000006.pcm	▁불 ▁좀 ▁꺼줘 .	10 29 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000007.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000020.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000014.pcm	▁히터 ▁켜줘 .	34 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000012.pcm	▁창문좀 ▁닫아줘 .	42 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000019.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000015.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000011.pcm	▁히터 ▁켜줘 .	34 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000018.pcm	▁히터 ▁틀어줘 .	34 35 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000013.pcm	▁히터 ▁좀 ▁꺼줘 .	34 29 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000016.pcm	▁히터 ▁틀어 .	34 32 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000021.pcm	▁불켜 .	38 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000017.pcm	▁히터 ▁좀 ▁틀어줘 .	34 29 35 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000029.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000030.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000022.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000025.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000028.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000031.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000023.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000027.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000032.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000024.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000026.pcm	▁불 ▁켜 ▁줘 .	10 8 47 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000041.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000036.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000033.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000038.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000035.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000037.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000039.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000042.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000034.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000040.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000051.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000047.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000045.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000049.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000046.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000053.pcm	▁에어컨 ▁꺼 .	18 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000048.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000052.pcm	▁에어컨 ▁꺼 .	18 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000043.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000044.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000050.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000062.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000063.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000064.pcm	▁보일 려 ▁켜줘 .	14 3 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000058.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000054.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000055.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000056.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000057.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000059.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000060.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000061.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000074.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000070.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000069.pcm	▁보일러 ▁켜 주 라 .	15 8 3 132 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000067.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000066.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000075.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000071.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000073.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000068.pcm	▁보일러 ▁꺼 주 라 .	15 9 3 132 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000072.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000065.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000086.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000084.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000079.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000078.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000085.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000082.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000083.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000080.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000076.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000077.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000081.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000093.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000090.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000091.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000092.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000096.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000087.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000088.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000094.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000089.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000095.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000100.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000101.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000104.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000098.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000103.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000105.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000102.pcm	▁히터 ▁틀어 .	34 32 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000099.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000097.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000107.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000113.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000108.pcm	▁창문 ▁좀 ▁닫아줘 .	12 29 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000116.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000111.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000109.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000115.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000112.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000110.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000114.pcm	▁불좀 ▁꺼줘	49 20
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000106.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000128.pcm	▁보일러 ▁틀어줘 .	15 35 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000127.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000120.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000118.pcm	▁불 ▁좀 ▁꺼줘 .	10 29 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000119.pcm	▁불 ▁끄자 .	10 51 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000121.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000126.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000124.pcm	▁히터 ▁틀어줘 .	34 35 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000125.pcm	▁보일러 ▁틀어줘 .	15 35 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000117.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000122.pcm	▁보일러 ▁보일러 ▁보일러 . ▁보일러 .	15 15 15 100 15 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000123.pcm	▁불 ▁꺼 ▁줘 .	10 9 47 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000136.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000129.pcm	▁창문 ▁좀 ▁열고 . ▁창문 ▁좀 ▁닫자 .	12 29 57 100 12 29 52 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000137.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000139.pcm	▁에어컨 ▁꺼 ▁줘 .	18 9 47 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000131.pcm	▁헤이우니 ▁에어컨 ▁켜줘 .	46 18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000132.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000138.pcm	▁에어컨 ▁좀 ▁켜 .	18 29 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000134.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000130.pcm	▁창문 ▁열어 . ▁창문 ▁닫아 .	12 24 100 12 22 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000133.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000135.pcm	▁에어컨 ▁좀 ▁켜 .	18 29 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000141.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000148.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000150.pcm	▁에어컨 ▁켜줘어 .	18 53 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000147.pcm	▁에어컨좀 ▁꺼줘 .	54 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000145.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000140.pcm	▁에어컨 ▁꺼줘 . ▁에어컨 .	18 20 100 18 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000142.pcm	▁에어컨 ▁좀 ▁꺼줘 .	18 29 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000144.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000146.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000143.pcm	▁헤이 ▁우니 ▁에어컨좀 ▁꺼줘 .	6 7 54 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000149.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000153.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000155.pcm	▁보일러 ▁좀 ▁켜줘어 .	15 29 53 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000151.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000159.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000156.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000157.pcm	▁보일러 ▁좀 ▁꺼줘 .	15 29 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000152.pcm	▁헤이 ▁우니 ▁보일러좀 ▁꺼줘 .	6 7 45 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000158.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘어 .	6 7 15 60 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000154.pcm	▁보일러좀 ▁켜줘 .	45 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000166.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000163.pcm	▁헤이우니 ▁보일러 ▁꺼줘 .	46 15 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000170.pcm	▁보일러좀 ▁꺼줘 .	45 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000169.pcm	▁보일러좀 ▁켜줘 .	45 19 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000162.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000167.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000160.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000164.pcm	▁보일러좀 ▁꺼줘 .	45 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000165.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000161.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000168.pcm	▁보일러 ▁좀 ▁꺼줘 .	15 29 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000175.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000178.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000179.pcm	▁우니 ▁창문 ▁열어줘 .	7 12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000176.pcm	▁창문좀 ▁열어줘 .	42 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000174.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000180.pcm	▁창문좀 ▁열자 .	42 58 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000177.pcm	▁헤이우니 ▁창문좀 ▁열어줘 .	46 42 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000171.pcm	▁헤이우니 ▁창문열어줘 .	46 62 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000172.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000181.pcm	▁헤이우니 ▁창문 ▁열어줘 .	46 12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000173.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000191.pcm	▁창문	12
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000182.pcm	▁창문 ▁닫고 . ▁창문 ▁열어 .	12 56 100 12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000192.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000184.pcm	▁창문 ▁좀 ▁열어줘 .	12 29 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000189.pcm	▁창문좀 ▁닫아줘 .	42 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000183.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000187.pcm	▁창문 ▁좀 ▁닫아줘 .	12 29 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000185.pcm	▁창문좀 ▁닫아줘 .	42 26 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000190.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000186.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000188.pcm	▁창문좀 ▁열어줘 .	42 25 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000197.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000193.pcm	▁창문	12
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000195.pcm	▁불	10
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000199.pcm	▁히터 ▁켜 .	34 8 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000194.pcm	▁불	10
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000196.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000198.pcm	▁창문 ▁열어줘어 .	12 61 100
+KsponSpeech_01/KsponSpeech_0001/KsponSpeech_000200.pcm	▁보일러 ▁틀어줘 .	15 35 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000301.pcm	▁헤이 ▁우니 ▁불켜줘 .	6 7 41 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000302.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000303.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000304.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000305.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000306.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000307.pcm	▁헤이 ▁우니 ▁불켜줘 .	6 7 41 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000308.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000309.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000310.pcm	▁헤이 ▁우니 ▁불켜 .	6 7 38 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000311.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000312.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000313.pcm	▁헤이 ▁우니 ▁불꺼줘 .	6 7 40 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000314.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000315.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000316.pcm	▁헤이 ▁우니 ▁불꺼줘 .	6 7 40 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000317.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000318.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000319.pcm	▁헤이 ▁우니 ▁불꺼줘 .	6 7 40 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000320.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000321.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000322.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000323.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000324.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000325.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000326.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000327.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000328.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000329.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000330.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000331.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000332.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000333.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000334.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000335.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000336.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000337.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000338.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000339.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000340.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000341.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000342.pcm	▁헤이 ▁우니 ▁보일러 ▁틀어줘 .	6 7 15 35 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000343.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000344.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000345.pcm	▁헤이 ▁우니 ▁보일러 ▁틀어줘 .	6 7 15 35 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000346.pcm	▁헤이 ▁우니 ▁보일러 ▁틀어 .	6 7 15 32 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000347.pcm	▁헤이 ▁우니 ▁보일러 ▁틀어줘 .	6 7 15 35 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000348.pcm	▁헤이 ▁우니 ▁보일러 ▁틀어 .	6 7 15 32 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000349.pcm	▁헤이 ▁우니 ▁보일러 ▁틀어줘 .	6 7 15 35 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000350.pcm	▁헤이 ▁우니 ▁보일러 ▁틀어 .	6 7 15 32 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000351.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000352.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000353.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000354.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000355.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000356.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000357.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000358.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000359.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000360.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000361.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000362.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000363.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000364.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000365.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000366.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000367.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000368.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000369.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000370.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000371.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000372.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000373.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000374.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000375.pcm	▁헤이 ▁우니 ▁에어컨 ▁틀어줘 .	6 7 18 35 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000376.pcm	▁헤이 ▁우니 ▁에어컨 ▁틀어 .	6 7 18 32 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000377.pcm	▁헤이 ▁우니 ▁에어컨 ▁틀어줘 .	6 7 18 35 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000378.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000379.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000380.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000381.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000382.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000383.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000384.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000385.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000386.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000387.pcm	▁헤이 ▁우니 ▁창문 ▁닫어 .	6 7 12 48 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000389.pcm	▁헤이 ▁우니 ▁창문 ▁닫어 .	6 7 12 48 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000388.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000390.pcm	▁헤이 ▁우니 ▁창문 ▁닫어 .	6 7 12 48 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000391.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000392.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000393.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000394.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000395.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000396.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000397.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000398.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000399.pcm	▁헤이 ▁우니 ▁창문 ▁닫어 .	6 7 12 48 100
+KsponSpeech_01/KsponSpeech_0003/KsponSpeech_000400.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000401.pcm	▁불 ▁꺼 . ▁불 ▁켜 .	10 9 100 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000402.pcm	▁불 ▁꺼줘 . ▁불 ▁켜 .	10 20 100 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000403.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000404.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000405.pcm	▁불 ▁꺼 . ▁불 ▁켜 .	10 9 100 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000406.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000407.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000408.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000409.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000410.pcm	▁불 ▁켜 . ▁불 ▁꺼 .	10 8 100 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000411.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000412.pcm	▁에어컨 ▁켜 . ▁에어컨 .	18 8 100 18 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000413.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000414.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000415.pcm	▁에어컨 ▁꺼 .	18 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000416.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000417.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000418.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000419.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000420.pcm	▁에어컨 ▁꺼 .	18 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000421.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000422.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000423.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000424.pcm	▁보일러 ▁틀어줘 .	15 35 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000425.pcm	▁보일러 ▁틀어 .	15 32 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000426.pcm	▁보일러 ▁틀어 .	15 32 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000427.pcm	▁보일러 ▁틀어줘 .	15 35 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000428.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000429.pcm	▁보일러 ▁틀어 .	15 32 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000430.pcm	▁보일러 ▁틀어줘 .	15 35 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000431.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000432.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000433.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000434.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000435.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000436.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000437.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000438.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000439.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000440.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000441.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000442.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000443.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000444.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000445.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000446.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000447.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000448.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000449.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000450.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000451.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000452.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000453.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000454.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000455.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000456.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000457.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000458.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000459.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000460.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000461.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000462.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000463.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000464.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000465.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000466.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000467.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000468.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000469.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000470.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000471.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000472.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000473.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000474.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000475.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000476.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000477.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000478.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000479.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000480.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000481.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000482.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000483.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000484.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000485.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000486.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000487.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000488.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000489.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000490.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000491.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000492.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000493.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000494.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000495.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000496.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000497.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000498.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000499.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0004/KsponSpeech_000500.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000501.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000502.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000503.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000504.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000505.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000506.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000507.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000508.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000509.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000510.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000511.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000512.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000513.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000514.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000515.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000516.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000517.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000518.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000519.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000520.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000521.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000522.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000523.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000524.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000525.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000526.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000527.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000528.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000529.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000530.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000531.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000532.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000533.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000534.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000535.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000536.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000537.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000538.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000539.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000540.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000541.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000542.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000543.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000544.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000545.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000546.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000547.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000548.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000549.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000550.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000551.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000552.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000553.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000554.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000555.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000556.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000558.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000559.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000560.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000561.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000562.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000563.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000564.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000565.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000566.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000567.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000568.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000569.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000570.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000571.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000572.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000573.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000574.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000575.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000576.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000577.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000578.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000579.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000580.pcm	▁ 해 이 ▁우니 ▁보일러 ▁켜줘 .	99 3 103 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000557.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000581.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000582.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000583.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000584.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000585.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000586.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000587.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000588.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000589.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000590.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000591.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000592.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000593.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000594.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000595.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000596.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼	6 7 15 9
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000597.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000598.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000599.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0005/KsponSpeech_000600.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000601.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000602.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000603.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000604.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000605.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000606.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000607.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000608.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000609.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000610.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000611.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000612.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000613.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000614.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000615.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000616.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000617.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000618.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000619.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000620.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000621.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000622.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000623.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000624.pcm	▁불 ▁꺼	10 9
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000625.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000626.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000627.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000628.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000629.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000630.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000631.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000632.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000633.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000634.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000635.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000636.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000637.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000638.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000639.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000640.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000641.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000642.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000643.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000644.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000645.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000646.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000647.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000648.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000649.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000650.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000651.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000652.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000653.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000654.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000655.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000656.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000657.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000658.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000659.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000660.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000661.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000662.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000663.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000664.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000665.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000666.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000667.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000668.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000669.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000670.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000671.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000672.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000673.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000674.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000675.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000676.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000677.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000678.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000679.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000680.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000681.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000682.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000683.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000684.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000685.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000686.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000687.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000688.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000689.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000690.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000691.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000692.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000693.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000695.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000694.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000697.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000696.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000698.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000699.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0006/KsponSpeech_000700.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000701.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000702.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000703.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000704.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000705.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000706.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000707.pcm	▁불 ▁켜줘 .	10 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000708.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000709.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000710.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000711.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000712.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000713.pcm	▁불 ▁켜 .	10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000714.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000715.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000716.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000717.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000718.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000719.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000720.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000721.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000722.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000723.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000724.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000725.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000726.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000727.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000728.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000729.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000730.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000731.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000732.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000733.pcm	▁불 ▁꺼 .	10 9 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000734.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000735.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000736.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000737.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000738.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000739.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000740.pcm	▁불 ▁꺼줘 .	10 20 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000741.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000742.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000743.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000744.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000745.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000746.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000748.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000749.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000750.pcm	▁창문 ▁열어줘 .	12 25 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000751.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000752.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000753.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000754.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000755.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000756.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000757.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000758.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000759.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000760.pcm	▁창문 ▁열어 .	12 24 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000761.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000762.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000763.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000764.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000765.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000766.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000767.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000768.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000769.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000770.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000771.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000772.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000773.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000774.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000775.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000776.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000777.pcm	▁창문 ▁닫아 .	12 22 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000778.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000779.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000780.pcm	▁창문 ▁닫아줘 .	12 26 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000782.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000781.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000783.pcm	▁헤이 ▁우니 ▁보일러 ▁켜 .	6 7 15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000784.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000785.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000786.pcm	▁헤이 ▁우니 ▁보일러 ▁켜줘 .	6 7 15 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000787.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000788.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000789.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000790.pcm	▁보일러 ▁켜줘 .	15 19 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000791.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000792.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000793.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000794.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000795.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000796.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000797.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000798.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000799.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KSponSpeech_0007/KsponSpeech_000800.pcm	▁보일러 ▁켜 .	15 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000801.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000802.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000803.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000804.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000805.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000806.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000807.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000808.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼 .	6 7 15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000809.pcm	▁헤이 ▁우니 ▁보일러 ▁꺼줘 .	6 7 15 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000810.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000811.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000812.pcm	▁보일러 ▁꺼줘 .	15 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000813.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000814.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000815.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000816.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000817.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000818.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000819.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000820.pcm	▁보일러 ▁꺼 .	15 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000821.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000822.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000823.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000824.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000826.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000827.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000828.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000825.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000829.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000830.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000831.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000832.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000833.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000835.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000834.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000836.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000837.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000838.pcm	▁에어컨 ▁켜 .	18 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000839.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000840.pcm	▁에어컨 ▁켜줘 .	18 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000847.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000848.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000849.pcm	▁에어컨 ▁꺼 .	18 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000850.pcm	▁에어컨 ▁꺼 .	18 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000841.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000842.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000843.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000844.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000845.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000846.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000851.pcm	▁에어컨 ▁꺼 .	18 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000852.pcm	▁에어컨 ▁꺼 .	18 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000853.pcm	▁에어컨 ▁꺼 .	18 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000854.pcm	▁에어컨 ▁꺼 .	18 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000855.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000856.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000857.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000858.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000859.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000860.pcm	▁에어컨 ▁꺼줘 .	18 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000861.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000862.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000863.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000864.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000865.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000866.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000867.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000868.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000869.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000870.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000871.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000872.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000873.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000874.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000875.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000876.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000877.pcm	▁헤이 ▁우니 ▁불 ▁켜 .	6 7 10 8 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000878.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000879.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000880.pcm	▁헤이 ▁우니 ▁불 ▁켜줘 .	6 7 10 19 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000881.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000882.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000883.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000884.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000885.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000886.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000887.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000888.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000889.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000890.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000891.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000892.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000893.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000895.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000894.pcm	▁헤이 ▁우니 ▁불 ▁꺼줘 .	6 7 10 20 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000896.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000897.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000898.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000899.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0008/KsponSpeech_000900.pcm	▁헤이 ▁우니 ▁불 ▁꺼 .	6 7 10 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000901.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000902.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000903.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000904.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000905.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000906.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000907.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000908.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000909.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000910.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000911.pcm	▁헤이 ▁우니 ▁창문 ▁열어 .	6 7 12 24 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000912.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000913.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000914.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000915.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000916.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000917.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000918.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000919.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000920.pcm	▁헤이 ▁우니 ▁창문 ▁열어줘 .	6 7 12 25 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000921.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000922.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000923.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000924.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000925.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000926.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000927.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000928.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000929.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000930.pcm	▁헤이 ▁우니 ▁창문 ▁닫아줘 .	6 7 12 26 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000931.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000932.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000933.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000934.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000935.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000936.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000937.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000938.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000939.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000940.pcm	▁헤이 ▁우니 ▁창문 ▁닫아 .	6 7 12 22 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000942.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000943.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000944.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000945.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000946.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000941.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000947.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000948.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000949.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000950.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000951.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000952.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000953.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000954.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜 .	6 7 18 8 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000955.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000956.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000957.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000958.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000959.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000960.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000962.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000963.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000964.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000965.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000966.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000967.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000968.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000969.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000970.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000971.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000972.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000973.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000974.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000975.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000976.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000978.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000979.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000980.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼줘 .	6 7 18 20 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000981.pcm	▁에어컨 ▁불 ▁보일러 ▁창문	18 10 15 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000982.pcm	▁에어컨 ▁보일러 ▁불 ▁창문	18 15 10 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000961.pcm	▁헤이 ▁우니 ▁에어컨 ▁켜줘 .	6 7 18 19 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000977.pcm	▁헤이 ▁우니 ▁에어컨 ▁꺼 .	6 7 18 9 100
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000983.pcm	▁불 ▁보일러 ▁에어컨 ▁창문	10 15 18 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000984.pcm	▁불 ▁보일러 ▁에어컨 ▁창문	10 15 18 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000985.pcm	▁불 ▁보일러 ▁에어컨 ▁창문	10 15 18 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000986.pcm	▁보일러 ▁불 ▁에어컨 ▁창문	15 10 18 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000987.pcm	▁보일러 ▁불 ▁에어컨 ▁창문	15 10 18 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000988.pcm	▁보일러 ▁불 ▁에어컨 ▁창문	15 10 18 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000989.pcm	▁에어컨 ▁보일러 ▁불 ▁창문	18 15 10 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000990.pcm	▁에어컨 ▁보일러 ▁불 ▁창문	18 15 10 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000991.pcm	▁에어컨 ▁보일러 ▁불 ▁창문	18 15 10 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000992.pcm	▁에어컨 ▁보일러 ▁불 ▁창문	18 15 10 12
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000993.pcm	▁불 ▁창문 ▁에어컨 ▁보일러	10 12 18 15
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000994.pcm	▁불 ▁창문 ▁에어컨 ▁보일러	10 12 18 15
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000995.pcm	▁불 ▁창문 ▁에어컨 ▁보일러	10 12 18 15
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000996.pcm	▁불 ▁창문 ▁에어컨 ▁보일러	10 12 18 15
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000997.pcm	▁창문 ▁불 ▁에어컨 ▁보일러	12 10 18 15
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000998.pcm	▁창문 ▁불 ▁에어컨 ▁보일러	12 10 18 15
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_000999.pcm	▁에어컨 ▁보일러 ▁창문 ▁불	18 15 12 10
+KsponSpeech_01/KsponSpeech_0009/KsponSpeech_001000.pcm	▁에어컨 ▁창문 ▁불 ▁보일러	18 12 10 15
